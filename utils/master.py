@@ -18,7 +18,7 @@ class Master:
     def __init__(self):
         # room map
         self.roomMap = {
-            '1':'自习室',
+            '1':'T1自修一室
             '2':'教师休息室',
             '3':'阅览室',
             '4':'讨论室'
